@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="bmi_height">身高(cm)</string>
+    <string name="bmi_weight">體重(kg)</string>
+    <string name="hint_feet">英尺</string>
+    <string name="hint_inches">英吋</string>
+    <string name="bmi_btn">計算BMI值並儲存</string>
+    <string name="rdbMale">男</string>
+    <string name="rdbFemale">女</string>
+    <string name="bmi_result">BMI = %1$.2f</string>
+    <string name="btn_back">返回 BMI </string>
+</resources>

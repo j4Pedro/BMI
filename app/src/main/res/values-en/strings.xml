@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="bmi_height">Height(feet-inches)</string>
+    <string name="hint_feet">feet</string>
+    <string name="hint_inches">inches</string>
+    <string name="bmi_weight">Weight(lbs)</string>
+    <string name="bmi_btn">Calulate BMI</string>
+    <string name="rdbMale">M</string>
+    <string name="rdbFemale">F</string>
+    <string name="bmi_result">BMI = %1$.2f</string>
+    <string name="btn_back">Back to BMI</string>
+
+</resources>

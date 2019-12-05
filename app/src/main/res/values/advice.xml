@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="advice_light">數值偏低，多吃點</string>
+    <string name="advice_average">身材標準</string>
+    <string name="advice_heavy">數值偏高，少吃點</string>
+
+</resources>
